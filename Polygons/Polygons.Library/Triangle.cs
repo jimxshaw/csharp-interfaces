@@ -2,10 +2,11 @@
 
 namespace Polygons.Library
 {
-    public class Triangle: AbstractRegularPolygon
+    public class Triangle : AbstractRegularPolygon
     {
         public Triangle(int length) :
-            base(3, length) { }
+            base(3, length)
+        { }
 
         public override double GetArea()
         {

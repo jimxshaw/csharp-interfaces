@@ -1,0 +1,5 @@
+C:\YX\projects\csharp-interfaces\Polygons\Polygons.Library\bin\Debug\Polygons.Library.dll
+C:\YX\projects\csharp-interfaces\Polygons\Polygons.Library\bin\Debug\Polygons.Library.pdb
+C:\YX\projects\csharp-interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.csprojResolveAssemblyReference.cache
+C:\YX\projects\csharp-interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.dll
+C:\YX\projects\csharp-interfaces\Polygons\Polygons.Library\obj\Debug\Polygons.Library.pdb

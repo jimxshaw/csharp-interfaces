@@ -7,14 +7,17 @@ namespace Polygons
     {
         static void Main(string[] args)
         {
-            var square = new Square(5);
-            DisplayPolygon("Square", square);
+            //var square = new Square(5);
+            //DisplayPolygon("Square", square);
 
             //var triangle = new Triangle(5);
             //DisplayPolygon("Triangle", triangle);
 
             //var octagon = new Octagon(5);
             //DisplayPolygon("Octagon", octagon);
+
+            var hexagon = new Hexagon(7);
+            DisplayPolygon("Hexagon", hexagon);
 
             Console.Read();
         }
