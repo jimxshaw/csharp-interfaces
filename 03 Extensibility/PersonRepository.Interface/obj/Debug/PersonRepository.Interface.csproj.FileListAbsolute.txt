@@ -1,5 +1,4 @@
 C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
 C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
-C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache
 C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
 C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb

@@ -18,6 +18,10 @@ namespace PersonRepository.CSV
 
         public IEnumerable<Person> GetPeople()
         {
+            // We open a text file using a StreamReader on it to go through each 
+            // line one at a time. We parse that line based on commas as separators. 
+            // We turn those into person objects and then we put that into a list of 
+            // person that we can return back from the method. 
             var people = new List<Person>();
 
             if (File.Exists(path))

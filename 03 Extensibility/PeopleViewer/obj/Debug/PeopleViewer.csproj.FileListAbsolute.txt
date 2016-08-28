@@ -18,3 +18,5 @@ C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\obj\Debug\PeopleV
 C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\obj\Debug\PeopleViewer.csproj.GenerateResource.Cache
 C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\obj\Debug\PeopleViewer.exe
 C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\obj\Debug\PeopleViewer.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\PersonRepository.CSV.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\PersonRepository.CSV.pdb
