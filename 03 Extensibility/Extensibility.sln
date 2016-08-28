@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositorie
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{CF2108D5-4AF0-4D6D-A519-391B353A771E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRespository.Service", "PersonRespository.Service\PersonRespository.Service.csproj", "{D212DB22-81DC-4935-A8E5-875D7692DFCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonRepository.Service", "PersonRespository.Service\PersonRepository.Service.csproj", "{D212DB22-81DC-4935-A8E5-875D7692DFCF}"
 	ProjectSection(ProjectDependencies) = postProject
 		{5FE8AD75-B070-4A7F-9587-C40EE51BDD44} = {5FE8AD75-B070-4A7F-9587-C40EE51BDD44}
 	EndProjectSection

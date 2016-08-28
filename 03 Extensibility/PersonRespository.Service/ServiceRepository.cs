@@ -1,9 +1,9 @@
 ﻿using PersonRepository.Interface;
-using PersonRespository.Service.MyService;
+using PersonRepository.Service.MyService;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace PersonRespository.Service
+namespace PersonRepository.Service
 {
     // This ServiceRepository class simply serves as a pass-thru to the WCF service data layer.
     public class ServiceRepository : IPersonRepository

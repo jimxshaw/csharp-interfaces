@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PersonRespository.Service.MyService {
+namespace PersonRepository.Service.MyService {
     
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -53,12 +53,12 @@ namespace PersonRespository.Service.MyService {
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public interface IPersonServiceChannel : PersonRespository.Service.MyService.IPersonService, System.ServiceModel.IClientChannel {
+    public interface IPersonServiceChannel : IPersonService, System.ServiceModel.IClientChannel {
     }
     
     [System.Diagnostics.DebuggerStepThroughAttribute()]
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
-    public partial class PersonServiceClient : System.ServiceModel.ClientBase<PersonRespository.Service.MyService.IPersonService>, PersonRespository.Service.MyService.IPersonService {
+    public partial class PersonServiceClient : System.ServiceModel.ClientBase<IPersonService>, IPersonService {
         
         public PersonServiceClient() {
         }
