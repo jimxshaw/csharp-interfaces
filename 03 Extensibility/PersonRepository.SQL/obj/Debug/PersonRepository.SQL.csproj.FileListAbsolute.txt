@@ -1,0 +1,11 @@
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\People.sdf
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\PersonRepository.SQL.dll.config
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\PersonRepository.SQL.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\PersonRepository.SQL.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\EntityFramework.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\PersonRepository.Interface.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\PersonRepository.Interface.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\bin\Debug\EntityFramework.xml
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\obj\Debug\PersonRepository.SQL.csprojResolveAssemblyReference.cache
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\obj\Debug\PersonRepository.SQL.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRepository.SQL\obj\Debug\PersonRepository.SQL.pdb

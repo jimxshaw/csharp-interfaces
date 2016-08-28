@@ -106,6 +106,10 @@
       <Project>{07234eac-b32f-4769-a4c5-83209a858829}</Project>
       <Name>PersonRepository.Interface</Name>
     </ProjectReference>
+    <ProjectReference Include="..\PersonRepository.SQL\PersonRepository.SQL.csproj">
+      <Project>{003702d8-e922-4539-80d4-15aab22ff29d}</Project>
+      <Name>PersonRepository.SQL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PersonRespository.Service\PersonRepository.Service.csproj">
       <Project>{d212db22-81dc-4935-a8e5-875d7692dfcf}</Project>
       <Name>PersonRepository.Service</Name>

@@ -20,3 +20,8 @@ C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\obj\Debug\PeopleV
 C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\obj\Debug\PeopleViewer.pdb
 C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\PersonRepository.CSV.dll
 C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\PersonRepository.CSV.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\People.sdf
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\PersonRepository.SQL.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\EntityFramework.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\PersonRepository.SQL.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PeopleViewer\bin\Debug\EntityFramework.xml
