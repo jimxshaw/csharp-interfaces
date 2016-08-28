@@ -1,0 +1,8 @@
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\bin\People.Service.dll.config
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\bin\People.Service.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\bin\People.Service.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\bin\PersonRepository.Interface.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\bin\PersonRepository.Interface.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\obj\Debug\People.Service.csprojResolveAssemblyReference.cache
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\obj\Debug\People.Service.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\People.Service\obj\Debug\People.Service.pdb

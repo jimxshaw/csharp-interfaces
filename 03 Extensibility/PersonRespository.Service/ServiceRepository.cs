@@ -1,5 +1,5 @@
 ﻿using PersonRepository.Interface;
-using PersonRepository.Service.MyService;
+using PersonRespository.Service.MyService;
 using System.Collections.Generic;
 using System.Linq;
 
