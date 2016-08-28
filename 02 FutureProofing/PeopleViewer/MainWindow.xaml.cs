@@ -1,6 +1,5 @@
 ﻿using PersonLibrary;
 using System.Collections;
-using System.Collections.Generic;
 using System.Windows;
 
 namespace PeopleViewer
@@ -16,10 +15,26 @@ namespace PeopleViewer
 
         private void ConcreteFetchButton_Click(object sender, RoutedEventArgs e)
         {
+            ClearListBox();
+
+            Person[] people = peopleRepo.GetPeople();
+
+            foreach (var person in people)
+            {
+                PersonListBox.Items.Add(person);
+            }
         }
 
         private void InterfaceFetchButton_Click(object sender, RoutedEventArgs e)
         {
+            ClearListBox();
+
+            IEnumerable people = peopleRepo.GetPeople();
+
+            foreach (var person in people)
+            {
+                PersonListBox.Items.Add(person);
+            }
         }
 
         private void ClearButton_Click(object sender, RoutedEventArgs e)
