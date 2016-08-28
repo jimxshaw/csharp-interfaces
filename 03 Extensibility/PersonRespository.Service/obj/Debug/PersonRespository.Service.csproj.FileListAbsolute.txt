@@ -1,0 +1,8 @@
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\bin\Debug\PersonRespository.Service.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\bin\Debug\PersonRespository.Service.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\bin\Debug\PersonRepository.Interface.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\bin\Debug\PersonRepository.Interface.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\obj\Debug\PersonRespository.Service.csprojResolveAssemblyReference.cache
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\obj\Debug\PersonRespository.Service.dll
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\obj\Debug\PersonRespository.Service.pdb
+C:\YX\projects\csharp-interfaces\03 Extensibility\PersonRespository.Service\bin\Debug\PersonRespository.Service.dll.config
