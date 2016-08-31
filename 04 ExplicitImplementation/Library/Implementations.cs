@@ -1,4 +1,8 @@
-﻿namespace Library
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace Library
 {
     public class StandardCatalog : ISaveable, IPersistable
     {
@@ -46,6 +50,22 @@
         void IVoidSaveable.Save()
         {
             throw new System.NotImplementedException();
+        }
+    }
+
+    public class EnumerableCatalog : IEnumerable<string>
+    {
+        // IEnumerable<T> implements IEnumerable. Both interfaces each have one method called 
+        // GetEnumerator but each has a different return type. As a result, when we implement 
+        // IEnumerable<T> we have to use explicit interface implmentation. 
+        public IEnumerator<string> GetEnumerator()
+        {
+            throw new NotImplementedException();
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            throw new NotImplementedException();
         }
     }
 
