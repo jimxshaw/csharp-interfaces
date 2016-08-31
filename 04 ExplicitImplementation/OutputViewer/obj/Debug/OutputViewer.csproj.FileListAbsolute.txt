@@ -1,0 +1,8 @@
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe.config
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.exe
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\bin\Debug\StandardImplementation.pdb
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\bin\Debug\Library.dll
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\bin\Debug\Library.pdb
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\obj\Debug\OutputViewer.csprojResolveAssemblyReference.cache
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.exe
+C:\YX\projects\csharp-interfaces\04 ExplicitImplementation\OutputViewer\obj\Debug\StandardImplementation.pdb
