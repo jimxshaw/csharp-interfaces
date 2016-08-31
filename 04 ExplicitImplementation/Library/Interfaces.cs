@@ -10,4 +10,9 @@ namespace Library
     {
         string Save();
     }
+
+    public interface IVoidSaveable
+    {
+        void Save();
+    }
 }
