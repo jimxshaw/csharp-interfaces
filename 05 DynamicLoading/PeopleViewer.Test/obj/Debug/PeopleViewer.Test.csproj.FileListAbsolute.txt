@@ -1,0 +1,11 @@
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll.config
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.dll
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.Test.pdb
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.exe
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Interface.dll
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PeopleViewer.pdb
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\bin\Debug\PersonRepository.Interface.pdb
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.csprojResolveAssemblyReference.cache
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.dll
+C:\YX\projects\csharp-interfaces\05 DynamicLoading\PeopleViewer.Test\obj\Debug\PeopleViewer.Test.pdb
